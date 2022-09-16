@@ -1,0 +1,204 @@
+[
+    {
+      "id": 1,
+      "name": "Shakib Al Hasan",
+      "username": "Shakib",
+      "email": "shakib@april.biz",
+      "born":"March 24, 1987, Magura, Jessore",
+      "age":"35y 176d",
+      "batingStyle":"Left hand Bat",
+      "bolwingStyle":"Slow Left arm Orthodox",
+      "playingRole":"Allrounder",
+      "address": {
+        "district": "Magura",
+        "division": "Khulna"
+        
+      },
+      "phone": "01712245671",
+      "website": "hildegard.org",
+      "company": "Bangladesh Cirket Board",
+      "img": "https://static.langimg.com/thumb/msid-89591362,imgsize-25938,width-540,height-405,resizemode-75/shakib-main-89591362.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Afif Hossain Dhrubo",
+        "username": "Afif",
+        "email": "afif@april.biz",
+        "born":"September 22, 1999, Khulna",
+        "age":"22y 359d",
+        "batingStyle":"Left hand Bat",
+        "bolwingStyle":"ight arm Offbreak",
+        "playingRole":"Allrounder",
+        "address": {
+          "district": "Jessor",
+          "division": "Khulna"
+          
+        },
+        "phone": "01712245681",
+        "website": "hildegard.org",
+        "company": "Bangladesh Cirket Board",
+        "img": "https://www.bssnews.net/assets/news_photos/2021/08/31/image-14574-1630413525.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Mohammad Mahmudullah",
+        "username": "Riyad",
+        "email": "riyad@april.biz",
+        "born":"February 04, 1986, Mymensingh",
+        "age":"36y 224d",
+        "batingStyle":"Right hand Bat",
+        "bolwingStyle":"Right arm Offbreak",
+        "playingRole":"Allrounder",
+        "address": {
+          "district": "Mymensingh",
+          "division": "Mymensingh"
+          
+        },
+        "phone": "01712245672",
+        "website": "hildegard.org",
+        "company": "Bangladesh Cirket Board",
+        "img": "https://www.jugantor.com/assets/news_photos/2022/09/14/image-595165-1663153617.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Abdur Razzak",
+        "username": "Razzak",
+        "email": "razzak@april.biz",
+        "born":"June 15, 1982, Khulna",
+        "age":"35y 176d",
+        "batingStyle":"Left hand Bat",
+        "bolwingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "address": {
+          "district": "Magura",
+          "division": "Khulna"
+          
+        },
+        "phone": "01712245651",
+        "website": "hildegard.org",
+        "company": "Bangladesh Cirket Board",
+        "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c155896/abdur-razzak.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Mehidy Hasan Miraz",
+        "username": "Miraz",
+        "email": "miraz@april.biz",
+        "born":"October 25, 1997, Khulna",
+        "age":"24y 326d",
+        "batingStyle":"Right hand Bat",
+        "bolwingStyle":"Right arm Offbreak",
+        "playingRole":"Allrounder",
+        "address": {
+          "district": "Magura",
+          "division": "Khulna"
+          
+        },
+        "phone": "01712245691",
+        "website": "hildegard.org",
+        "company": "Bangladesh Cirket Board",
+        "img": "https://images.thedailystar.net/sites/default/files/feature/images/mehedi_hasan_miraz_1.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Mominul Haque",
+        "username": "Mominul",
+        "email": "mominul@april.biz",
+        "born":"September 29, 1991, Cox's Bazar",
+        "age":"30y 352d",
+        "batingStyle":"Left hand Bat",
+        "bolwingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Middle order Batter",
+        "address": {
+          "district": "Cox,s Bazar",
+          "division": "Chittagong"
+          
+        },
+        "phone": "01712245661",
+        "website": "hildegard.org",
+        "company": "Bangladesh Cirket Board",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa2ss76pBB-E9zkDagVma4ayTEAiZdXrbymg&usqp=CAU"
+      },
+      {
+          "id": 7,
+          "name": "Litton Kumer Das",
+          "username": "Afif",
+          "email": "afif@april.biz",
+          "born":"October 13, 1994, Dinajpur",
+          "age":"27y 338d",
+          "batingStyle":"Right hand Batt",
+          "bolwingStyle":"Right arm Offbreak",
+          "playingRole":"Wicketkeeper Batter",
+          "address": {
+            "district": "Dinajpur",
+            "division": "Rajshahi"
+            
+          },
+          "phone": "01712245221",
+          "website": "hildegard.org",
+          "company": "Bangladesh Cirket Board",
+          "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170914/litton-das.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Mohammad Naim Sheikh",
+          "username": "Riyad",
+          "email": "riyad@april.biz",
+          "born":"August 22, 1999, Dhaka South",
+          "age":"23y 25d",
+          "batingStyle":"Left hand Bat",
+          "bolwingStyle":"Opening Batter",
+          "playingRole":"Opening Batter",
+          "address": {
+            "district": "Dhaka",
+            "division": "Dhaka"
+            
+          },
+          "phone": "01712245772",
+          "website": "hildegard.org",
+          "company": "Bangladesh Cirket Board",
+          "img": "https://www.cricgram.com/wp-content/uploads/2021/10/Mohammad-Naim-Sheikh.jpeg"
+        },
+        {
+          "id": 9,
+          "name": "Mustafizur Rahman",
+          "username": "Mustafizur",
+          "email": "Mustafizurk@april.biz",
+          "born":"September 06, 1995, Satkhira",
+          "age":"27y 10d",
+          "batingStyle":"Left hand Bat",
+          "bolwingStyle":"Left arm Fast medium",
+          "playingRole":"Bowler",
+          "address": {
+            "district": "Satkhira",
+            "division": "Khulna"
+            
+          },
+          "phone": "01712845651",
+          "website": "hildegard.org",
+          "company": "Bangladesh Cirket Board",
+          "img": "https://dailyasianage.com/library/1548189310_8.jpg"
+        },
+        {
+          "id": 10,
+          "name": "Tamim Iqbal Khan",
+          "username": "Miraz",
+          "email": "miraz@april.biz",
+          "born":"March 20, 1989, Chittagong",
+          "age":"33y 180d",
+          "batingStyle":"Left hand Bat",
+          "bolwingStyle":"Right arm Offbreak",
+          "playingRole":"Opening Batter",
+          "address": {
+            "district": "Chittagong",
+            "division": "Chittagong"
+            
+          },
+          "phone": "01712245291",
+          "website": "hildegard.org",
+          "company": "Bangladesh Cirket Board",
+          "img": "https://api.bdcrictime.com/players/342.png"
+        }
+      
+    
+  ]
